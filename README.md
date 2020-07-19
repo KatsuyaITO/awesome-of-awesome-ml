@@ -9,7 +9,10 @@ A curated list of awesome lists of machine learning
   - [haofanwang/Awesome-Computer-Vision](https://github.com/haofanwang/Awesome-Computer-Vision) 42 Links 1 Contributor
   - [zhengzhugithub/AwesomeComputerVision](https://github.com/zhengzhugithub/AwesomeComputerVision) 7 Links 1 Contributor
   - Object Detection
-    - [hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection)
+    - [hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) 311 Links 8 Contributors
+    - [amusi/awesome-object-detection](https://github.com/amusi/awesome-object-detection) 347 Links 6 Contributors
+    - [ankitshah009/awesome-object-detection](https://gitlab.com/ankitshah009/awesome-object-detection) 276 Links 1 Contributors
+    - [daicoolb/Awesome-Object-Detections](https://github.com/daicoolb/Awesome-Object-Detections) 108 Links 1 Contributor
 - Natural Language Processing
   - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) 287 Links 110 Contributors
   - [dparlevliet/awesome-nlp](https://github.com/dparlevliet/awesome-nlp) 121 Links 2 Contributors
