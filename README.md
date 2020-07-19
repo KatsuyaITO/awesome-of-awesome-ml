@@ -1,7 +1,13 @@
 # awesome-of-awesome-ml　[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome lists of machine learning
 
-
+- General Deep Learning
+  - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) 521 Links 112 Contributors
+- Deep Learning Library
+  - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) 195 Links 85 Contributors
+  - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) 724 Links 61 Contributors
+  - [ritchieng/the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) 375 Links 58 Contributors
+  - [rickiepark/awesome-pytorch](https://github.com/rickiepark/awesome-pytorch) 86 Links 6 Contributors
 - Computer Vision
   - [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) 468 Links 22 Contributors
   - [kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) 258 Links 42 Contributors
@@ -20,6 +26,12 @@ A curated list of awesome lists of machine learning
     - [Amazing-Semantic-Segmentation](https://github.com/luyanger1799/Amazing-Semantic-Segmentation) 26 Links 1 Contributor
     - [Tramac/awesome-semantic-segmentation-pytorch](https://github.com/Tramac/awesome-semantic-segmentation-pytorch) 44 Links 3 Contributors
     - [nightrome/really-awesome-semantic-segmentation](https://github.com/nightrome/really-awesome-semantic-segmentation) 13 Links 2 Contributors
+  - Generative Adversarial Networks
+    - [nightrome/really-awesome-gan](https://github.com/nightrome/really-awesome-gan) 370 Links 13 Contributors
+    - [zhaoxin94/awesome-gan](https://github.com/zhaoxin94/awesome-gan) 42 Links 1 Contributor
+    - [Faldict/awesome-GAN](https://github.com/Faldict/awesome-GAN) 37 Links 2 Contributors
+    - [ChanChiChoi/awesome-GAN-papers](https://github.com/ChanChiChoi/awesome-GAN-papers) 1257 Links 1 Contributor
+    - [nashory/gans-awesome-applications](https://github.com/nashory/gans-awesome-applications) 129 Links 6 Contributors
 - Natural Language Processing
   - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) 287 Links 110 Contributors
   - [dparlevliet/awesome-nlp](https://github.com/dparlevliet/awesome-nlp) 121 Links 2 Contributors
