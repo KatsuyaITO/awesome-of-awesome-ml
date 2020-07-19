@@ -11,8 +11,15 @@ A curated list of awesome lists of machine learning
   - Object Detection
     - [hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) 311 Links 8 Contributors
     - [amusi/awesome-object-detection](https://github.com/amusi/awesome-object-detection) 347 Links 6 Contributors
-    - [ankitshah009/awesome-object-detection](https://gitlab.com/ankitshah009/awesome-object-detection) 276 Links 1 Contributors
+    - [ankitshah009/awesome-object-detection](https://gitlab.com/ankitshah009/awesome-object-detection) 276 Links 1 Contributor
     - [daicoolb/Awesome-Object-Detections](https://github.com/daicoolb/Awesome-Object-Detections) 108 Links 1 Contributor
+  - Image Classification
+    - [weiaicunzai/awesome-image-classification](https://github.com/weiaicunzai/awesome-image-classification) 332 Links 2 Contributors
+  - Semantic Segmentation
+    - [mrgloom/awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) 487 Links 15 Contributors
+    - [Amazing-Semantic-Segmentation](https://github.com/luyanger1799/Amazing-Semantic-Segmentation) 26 Links 1 Contributor
+    - [Tramac/awesome-semantic-segmentation-pytorch](https://github.com/Tramac/awesome-semantic-segmentation-pytorch) 44 Links 3 Contributors
+    - [nightrome/really-awesome-semantic-segmentation](https://github.com/nightrome/really-awesome-semantic-segmentation) 13 Links 2 Contributors
 - Natural Language Processing
   - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) 287 Links 110 Contributors
   - [dparlevliet/awesome-nlp](https://github.com/dparlevliet/awesome-nlp) 121 Links 2 Contributors
