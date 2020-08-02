@@ -1,15 +1,18 @@
 # awesome-of-awesome-ml　[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome lists of machine learning
+Please feel free to Pull Requests, email Katsuya Ito (katsuya1ito@gmail.com) 
 
 - General Deep Learning
   - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) 521 Links 112 Contributors
   - [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) 292 Links 24 Contributors 
   - [guillaume-chevalier/Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) 115 Links 2 Contributors
+- Datasets
+  - [https://github.com/awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) 760 Links 163 Contributors
 - Deep Learning Library
   - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) 195 Links 85 Contributors
   - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) 724 Links 61 Contributors
   - [ritchieng/the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) 375 Links 58 Contributors
-- [rickiepark/awesome-pytorch](https://github.com/rickiepark/awesome-pytorch) 86 Links 6 Contributors
+  - [rickiepark/awesome-pytorch](https://github.com/rickiepark/awesome-pytorch) 86 Links 6 Contributors
 - ML Courses
   - [https://github.com/luspr/awesome-ml-courses](https://github.com/luspr/awesome-ml-courses) 47 Links 2 Contributors
 - Computer Vision
@@ -54,9 +57,7 @@ A curated list of awesome lists of machine learning
   - [tonysy/awesome-graph-networks](https://github.com/tonysy/awesome-graph-networks) 14 Links 1 Contributor
 - Ensemble
   - [yzhao062/awesome-ensemble-learning](https://github.com/yzhao062/awesome-ensemble-learning) 62 Links 1 Contributor
-- Meta Learning
-  - [sudharsan13296/Awesome-Meta-Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning) 124 Links 2 Contributors
-  - [dragen1860/awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning) 79 Links 1 Contributor
+  - [kjw0612/awesome-random-forest](https://github.com/kjw0612/awesome-random-forest) 106 Links 6 Contributors
 - Unsupervised Learning
   - [LongLong-Jing/awesome-unsupervised-learning](https://github.com/LongLong-Jing/awesome-unsupervised-learning) 18 Links 1 Contributor
 - Generative Adversarial Networks
@@ -75,3 +76,10 @@ A curated list of awesome lists of machine learning
   - [AnjieCheng/awesome-multi-objective-optimization](https://github.com/AnjieCheng/awesome-multi-objective-optimization) 57 Links 1 Contributor
   - [jkerfs/awesome-optimization](https://github.com/jkerfs/awesome-optimization) 12 Links 1 Contributor
   - [harsh306/awesome-nn-optimization](https://github.com/harsh306/awesome-nn-optimization) 93 Links 1 Contributor
+- Meta Learning
+  - [sudharsan13296/Awesome-Meta-Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning) 124 Links 2 Contributors
+  - [dragen1860/awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning) 79 Links 1 Contributor
+- Domain Adaptation / Transfer Learning
+  - [zhaoxin94/awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation) 543 Links 18 Contributors
+  - [artix41/awesome-transfer-learning](https://github.com/artix41/awesome-transfer-learning) 141 Links 16 Contributors
+  - [jarvisWang0903/Awesome-Domain-Adaptation](https://github.com/jarvisWang0903/Awesome-Domain-Adaptation) 49 Links 2 Contributors
