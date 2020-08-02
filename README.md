@@ -1,5 +1,5 @@
 # awesome-of-awesome-ml　[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome lists of machine learning
+A curated list of curated lists of machine learning.
 Please feel free to Pull Requests, email Katsuya Ito (katsuya1ito@gmail.com) 
 
 - General Deep Learning
@@ -7,14 +7,14 @@ Please feel free to Pull Requests, email Katsuya Ito (katsuya1ito@gmail.com)
   - [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) 292 Links 24 Contributors 
   - [guillaume-chevalier/Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) 115 Links 2 Contributors
 - Datasets
-  - [https://github.com/awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) 760 Links 163 Contributors
+  - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) 760 Links 163 Contributors
 - Deep Learning Library
   - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) 195 Links 85 Contributors
   - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) 724 Links 61 Contributors
   - [ritchieng/the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) 375 Links 58 Contributors
   - [rickiepark/awesome-pytorch](https://github.com/rickiepark/awesome-pytorch) 86 Links 6 Contributors
 - ML Courses
-  - [https://github.com/luspr/awesome-ml-courses](https://github.com/luspr/awesome-ml-courses) 47 Links 2 Contributors
+  - [luspr/awesome-ml-courses](https://github.com/luspr/awesome-ml-courses) 47 Links 2 Contributors
 - Computer Vision
   - [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) 468 Links 22 Contributors
   - [kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) 258 Links 42 Contributors
