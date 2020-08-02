@@ -3,6 +3,8 @@ A curated list of awesome lists of machine learning
 
 - General Deep Learning
   - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) 521 Links 112 Contributors
+  - [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) 292 Links 24 Contributors 
+  - [guillaume-chevalier/Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) 115 Links 2 Contributors
 - Deep Learning Library
   - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) 195 Links 85 Contributors
   - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) 724 Links 61 Contributors
@@ -43,3 +45,13 @@ A curated list of awesome lists of machine learning
   - [jgvictores/awesome-deep-reinforcement-learning](https://github.com/jgvictores/awesome-deep-reinforcement-learning) 299 Links 2 Contributors
   - [tigerneil/awesome-deep-rl](https://github.com/tigerneil/awesome-deep-rl) 68 Links 2 Contributors
   - [kengz/awesome-deep-rl](https://github.com/kengz/awesome-deep-rl) 183 Links 2 Contributors
+- Speech
+  - [zzw922cn/awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) 194 Links 3 Contributors
+  - [goldsmith/awesome-speech-recognition-papers](https://github.com/goldsmith/awesome-speech-recognition-papers) 89 Links 3 Contributors
+- Recurrent Neural Networks
+  - [kjw0612/awesome-rnn](https://github.com/kjw0612/awesome-rnn) 280 Links 24 Contributors
+- Graph Neural Networks
+  - [nnzhan/Awesome-Graph-Neural-Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks) 157 Links 3 Contributors
+- Ensemble
+  - [yzhao062/awesome-ensemble-learning](https://github.com/yzhao062/awesome-ensemble-learning) 62 Links 1 Contributor
+
