@@ -9,7 +9,9 @@ A curated list of awesome lists of machine learning
   - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) 195 Links 85 Contributors
   - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) 724 Links 61 Contributors
   - [ritchieng/the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) 375 Links 58 Contributors
-  - [rickiepark/awesome-pytorch](https://github.com/rickiepark/awesome-pytorch) 86 Links 6 Contributors
+- [rickiepark/awesome-pytorch](https://github.com/rickiepark/awesome-pytorch) 86 Links 6 Contributors
+- ML Courses
+  - [https://github.com/luspr/awesome-ml-courses](https://github.com/luspr/awesome-ml-courses) 47 Links 2 Contributors
 - Computer Vision
   - [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) 468 Links 22 Contributors
   - [kjw0612/awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) 258 Links 42 Contributors
@@ -28,30 +30,48 @@ A curated list of awesome lists of machine learning
     - [Amazing-Semantic-Segmentation](https://github.com/luyanger1799/Amazing-Semantic-Segmentation) 26 Links 1 Contributor
     - [Tramac/awesome-semantic-segmentation-pytorch](https://github.com/Tramac/awesome-semantic-segmentation-pytorch) 44 Links 3 Contributors
     - [nightrome/really-awesome-semantic-segmentation](https://github.com/nightrome/really-awesome-semantic-segmentation) 13 Links 2 Contributors
-  - Generative Adversarial Networks
-    - [nightrome/really-awesome-gan](https://github.com/nightrome/really-awesome-gan) 370 Links 13 Contributors
-    - [zhaoxin94/awesome-gan](https://github.com/zhaoxin94/awesome-gan) 42 Links 1 Contributor
-    - [Faldict/awesome-GAN](https://github.com/Faldict/awesome-GAN) 37 Links 2 Contributors
-    - [ChanChiChoi/awesome-GAN-papers](https://github.com/ChanChiChoi/awesome-GAN-papers) 1257 Links 1 Contributor
-    - [nashory/gans-awesome-applications](https://github.com/nashory/gans-awesome-applications) 129 Links 6 Contributors
 - Natural Language Processing
   - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) 287 Links 110 Contributors
   - [dparlevliet/awesome-nlp](https://github.com/dparlevliet/awesome-nlp) 121 Links 2 Contributors
   - [insikk/awesome-korean-nlp](https://github.com/insikk/awesome-korean-nlp) 30 Links 13 Contributors
   - [Robofied/Awesome-NLP-Resources](https://github.com/Robofied/Awesome-NLP-Resources) 43 Links 3 Contributors
   - [The Super Duper NLP Repo](https://notebooks.quantumstat.com/) 233 Links 
+- Time series
+  - [cuge1995/awesome-time-series](https://github.com/cuge1995/awesome-time-series) 91 Links 3 Contributors
+  - [youngdou/awesome-time-series-analysis](https://github.com/youngdou/awesome-time-series-analysis) 23 Links 1 Contributor
+- Speech recognition
+  - [zzw922cn/awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) 194 Links 3 Contributors
+  - [goldsmith/awesome-speech-recognition-papers](https://github.com/goldsmith/awesome-speech-recognition-papers) 89 Links 3 Contributors
+- Recurrent Neural Networks
+  - [kjw0612/awesome-rnn](https://github.com/kjw0612/awesome-rnn) 280 Links 24 Contributors
 - Reinforcement Learning
   - [aikorea/awesome-rl](https://github.com/aikorea/awesome-rl/) 224 Links 45 Contributors
   - [jgvictores/awesome-deep-reinforcement-learning](https://github.com/jgvictores/awesome-deep-reinforcement-learning) 299 Links 2 Contributors
   - [tigerneil/awesome-deep-rl](https://github.com/tigerneil/awesome-deep-rl) 68 Links 2 Contributors
   - [kengz/awesome-deep-rl](https://github.com/kengz/awesome-deep-rl) 183 Links 2 Contributors
-- Speech
-  - [zzw922cn/awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) 194 Links 3 Contributors
-  - [goldsmith/awesome-speech-recognition-papers](https://github.com/goldsmith/awesome-speech-recognition-papers) 89 Links 3 Contributors
-- Recurrent Neural Networks
-  - [kjw0612/awesome-rnn](https://github.com/kjw0612/awesome-rnn) 280 Links 24 Contributors
 - Graph Neural Networks
   - [nnzhan/Awesome-Graph-Neural-Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks) 157 Links 3 Contributors
+  - [tonysy/awesome-graph-networks](https://github.com/tonysy/awesome-graph-networks) 14 Links 1 Contributor
 - Ensemble
   - [yzhao062/awesome-ensemble-learning](https://github.com/yzhao062/awesome-ensemble-learning) 62 Links 1 Contributor
-
+- Meta Learning
+  - [sudharsan13296/Awesome-Meta-Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning) 124 Links 2 Contributors
+  - [dragen1860/awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning) 79 Links 1 Contributor
+- Unsupervised Learning
+  - [LongLong-Jing/awesome-unsupervised-learning](https://github.com/LongLong-Jing/awesome-unsupervised-learning) 18 Links 1 Contributor
+- Generative Adversarial Networks
+  - [nightrome/really-awesome-gan](https://github.com/nightrome/really-awesome-gan) 370 Links 13 Contributors
+  - [zhaoxin94/awesome-gan](https://github.com/zhaoxin94/awesome-gan) 42 Links 1 Contributor
+  - [Faldict/awesome-GAN](https://github.com/Faldict/awesome-GAN) 37 Links 2 Contributors
+  - [ChanChiChoi/awesome-GAN-papers](https://github.com/ChanChiChoi/awesome-GAN-papers) 1257 Links 1 Contributor
+  - [nashory/gans-awesome-applications](https://github.com/nashory/gans-awesome-applications) 129 Links 6 Contributors
+- Variational Autoencoders
+  - [matthewvowels1/Awesome-VAEs](https://github.com/matthewvowels1/Awesome-VAEs) 801 Links 2 Contributors
+- Causal Inference
+  - [rguo12/awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms) 175 Links 4 Contributors
+  - [imirzadeh/awesome-causal-inference](https://github.com/imirzadeh/awesome-causal-inference) 10 Links 1 Contributor
+- Optimization
+  - [cshjin/awesome-nonconvex-optimization](https://github.com/cshjin/awesome-nonconvex-optimization) 67 Links 1 Contributor
+  - [AnjieCheng/awesome-multi-objective-optimization](https://github.com/AnjieCheng/awesome-multi-objective-optimization) 57 Links 1 Contributor
+  - [jkerfs/awesome-optimization](https://github.com/jkerfs/awesome-optimization) 12 Links 1 Contributor
+  - [harsh306/awesome-nn-optimization](https://github.com/harsh306/awesome-nn-optimization) 93 Links 1 Contributor
