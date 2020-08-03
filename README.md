@@ -58,8 +58,10 @@ Please feel free to Pull Requests, email Katsuya Ito (katsuya1ito@gmail.com)
 - Ensemble
   - [yzhao062/awesome-ensemble-learning](https://github.com/yzhao062/awesome-ensemble-learning) 62 Links 1 Contributor
   - [kjw0612/awesome-random-forest](https://github.com/kjw0612/awesome-random-forest) 106 Links 6 Contributors
-- Unsupervised Learning
+- Unsupervised Learning / Semi-supervised Learning / Self-supervised Learning
   - [LongLong-Jing/awesome-unsupervised-learning](https://github.com/LongLong-Jing/awesome-unsupervised-learning) 18 Links 1 Contributor
+  - [yassouali/awesome-semi-supervised-learning](https://github.com/yassouali/awesome-semi-supervised-learning) 409 Links 8 Contributors
+  - [jason718/awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) 286 Links 40 Contributors
 - Generative Adversarial Networks
   - [nightrome/really-awesome-gan](https://github.com/nightrome/really-awesome-gan) 370 Links 13 Contributors
   - [zhaoxin94/awesome-gan](https://github.com/zhaoxin94/awesome-gan) 42 Links 1 Contributor
@@ -88,3 +90,6 @@ Please feel free to Pull Requests, email Katsuya Ito (katsuya1ito@gmail.com)
   - [zhuyiche/awesome-anomaly-detection](https://github.com/zhuyiche/awesome-anomaly-detection) 45 Links 1 Contributor
   - [rob-med/awesome-TS-anomaly-detection](https://github.com/rob-med/awesome-TS-anomaly-detection) 34 Links 4 Contributors
   - [yzhao062/anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) 148 Links 2 Contributors
+- Noisy Label
+  - [subeeshvasu/Awesome-Learning-with-Label-Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise) 272 Links 8 Contributors
+  - [2021rahul/Awesome-Learning-with-Label-Noise](https://github.com/2021rahul/Awesome-Learning-with-Label-Noise) 147 Links 6 Contributors
