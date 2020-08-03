@@ -7,6 +7,7 @@ Please feel free to Pull Requests, email Katsuya Ito (katsuya1ito@gmail.com)
   - [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) 292 Links 24 Contributors 
   - [guillaume-chevalier/Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) 115 Links 2 Contributors
   - [endymecy/awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources) 911 Links 10 Contributors
+  - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) 152 Links 47 Contributors
 - Datasets
   - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) 760 Links 163 Contributors
   - [krishnakalyan3/awesome-kaggle](https://github.com/krishnakalyan3/awesome-kaggle) 18 Links 1 Contributor
@@ -44,8 +45,10 @@ Please feel free to Pull Requests, email Katsuya Ito (katsuya1ito@gmail.com)
 - Time series
   - [cuge1995/awesome-time-series](https://github.com/cuge1995/awesome-time-series) 91 Links 3 Contributors
   - [youngdou/awesome-time-series-analysis](https://github.com/youngdou/awesome-time-series-analysis) 23 Links 1 Contributor
-- Speech recognition
-  - [zzw922cn/awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) 194 Links 3 Contributors
+- Speech recognition / Music
+  - [zzw922cn/awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) 194 Links 3 
+  - [ybayle/awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) 335 Links 4 Contributors
+Contributors
   - [goldsmith/awesome-speech-recognition-papers](https://github.com/goldsmith/awesome-speech-recognition-papers) 89 Links 3 Contributors
 - Recurrent Neural Networks
   - [kjw0612/awesome-rnn](https://github.com/kjw0612/awesome-rnn) 280 Links 24 Contributors
