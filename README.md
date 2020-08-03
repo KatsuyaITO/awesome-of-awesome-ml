@@ -6,8 +6,10 @@ Please feel free to Pull Requests, email Katsuya Ito (katsuya1ito@gmail.com)
   - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) 521 Links 112 Contributors
   - [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) 292 Links 24 Contributors 
   - [guillaume-chevalier/Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) 115 Links 2 Contributors
+  - [endymecy/awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources) 911 Links 10 Contributors
 - Datasets
   - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) 760 Links 163 Contributors
+  - [krishnakalyan3/awesome-kaggle](https://github.com/krishnakalyan3/awesome-kaggle) 18 Links 1 Contributor
 - Deep Learning Library
   - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) 195 Links 85 Contributors
   - [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) 724 Links 61 Contributors
@@ -93,3 +95,12 @@ Please feel free to Pull Requests, email Katsuya Ito (katsuya1ito@gmail.com)
 - Noisy Label
   - [subeeshvasu/Awesome-Learning-with-Label-Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise) 272 Links 8 Contributors
   - [2021rahul/Awesome-Learning-with-Label-Noise](https://github.com/2021rahul/Awesome-Learning-with-Label-Noise) 147 Links 6 Contributors
+- Data augmentation
+  - [CrazyVertigo/awesome-data-augmentation](https://github.com/CrazyVertigo/awesome-data-augmentation) 37 Links 1 Contributor
+- Adversarial examples / learnig
+  - [yenchenlin/awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) 50 Links 2 Contributors
+  - [chbrian/awesome-adversarial-examples-dl](https://github.com/chbrian/awesome-adversarial-examples-dl) 90 Links 2 Contributors
+- SLAM
+  - [kanster/awesome-slam](https://github.com/kanster/awesome-slam) 69 Links 3 Contributors
+  - [YoujieXia/Awesome-SLAM](https://github.com/YoujieXia/Awesome-SLAM) 51 Links 1 Contributor 
+  - [youngguncho/awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets) 279 Links 6 Contributors
