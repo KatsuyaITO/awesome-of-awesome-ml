@@ -83,3 +83,8 @@ Please feel free to Pull Requests, email Katsuya Ito (katsuya1ito@gmail.com)
   - [zhaoxin94/awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation) 543 Links 18 Contributors
   - [artix41/awesome-transfer-learning](https://github.com/artix41/awesome-transfer-learning) 141 Links 16 Contributors
   - [jarvisWang0903/Awesome-Domain-Adaptation](https://github.com/jarvisWang0903/Awesome-Domain-Adaptation) 49 Links 2 Contributors
+- Anomaly Detection
+  - [hoya012/awesome-anomaly-detection](https://github.com/hoya012/awesome-anomaly-detection) 104 Links 11 Contributors
+  - [zhuyiche/awesome-anomaly-detection](https://github.com/zhuyiche/awesome-anomaly-detection) 45 Links 1 Contributor
+  - [rob-med/awesome-TS-anomaly-detection](https://github.com/rob-med/awesome-TS-anomaly-detection) 34 Links 4 Contributors
+  - [yzhao062/anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) 148 Links 2 Contributors
