@@ -3,6 +3,7 @@ A curated list of curated lists of machine learning.
 Please feel free to Pull Requests, email Katsuya Ito (katsuya1ito@gmail.com) 
 
 - General Deep Learning
+  - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) 555 Links 119 Contributors
   - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) 521 Links 112 Contributors
   - [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) 292 Links 24 Contributors 
   - [guillaume-chevalier/Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) 115 Links 2 Contributors
@@ -36,6 +37,9 @@ Please feel free to Pull Requests, email Katsuya Ito (katsuya1ito@gmail.com)
     - [Amazing-Semantic-Segmentation](https://github.com/luyanger1799/Amazing-Semantic-Segmentation) 26 Links 1 Contributor
     - [Tramac/awesome-semantic-segmentation-pytorch](https://github.com/Tramac/awesome-semantic-segmentation-pytorch) 44 Links 3 Contributors
     - [nightrome/really-awesome-semantic-segmentation](https://github.com/nightrome/really-awesome-semantic-segmentation) 13 Links 2 Contributors
+  - Pose Estimation
+    - [cbsudux/awesome-human-pose-estimation](https://github.com/cbsudux/awesome-human-pose-estimation) 139 Links 5 Contributors
+    - [xinghaochen/awesome-hand-pose-estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation) 527 Links 8 Contributors
 - Natural Language Processing
   - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) 287 Links 110 Contributors
   - [dparlevliet/awesome-nlp](https://github.com/dparlevliet/awesome-nlp) 121 Links 2 Contributors
