@@ -9,6 +9,7 @@ Please feel free to Pull Requests, email Katsuya Ito (katsuya1ito@gmail.com)
   - [guillaume-chevalier/Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) 115 Links 2 Contributors
   - [endymecy/awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources) 911 Links 10 Contributors
   - [owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) 152 Links 47 Contributors
+  - [likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) 137 Link 6 Contributors
 - Datasets
   - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) 760 Links 163 Contributors
   - [krishnakalyan3/awesome-kaggle](https://github.com/krishnakalyan3/awesome-kaggle) 18 Links 1 Contributor
